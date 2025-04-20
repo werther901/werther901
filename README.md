@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=werther's%20github&fontSize=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=werther's%20github&fontSize=70" />
 </div>
 
 <!--내용 부분-->
