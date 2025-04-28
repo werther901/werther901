@@ -1,7 +1,9 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=werther's%20github&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=header&text=ChoiSeungyeon&fontSize=40" />
 </div>
+
+<h4 align="center">프론트엔드 개발과 웹 성능 최적화에 관심이 많습니다 🚀</h4><br>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -40,6 +42,8 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
   
+
+
 
 
 
