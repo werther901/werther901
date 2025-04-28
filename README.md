@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=header&text=ChoiSeungyeon&fontSize=40" />
 </div>
 
-<h3 align="center">프론트엔드 개발과 웹 성능 최적화에 관심이 많습니다 🚀</h3><br>
+<p align="center">프론트엔드 개발과 웹 성능 최적화에 관심이 많습니다 🚀</p><br>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
